@@ -1,10 +1,182 @@
 [
   {
+    "id": "001",
+    "number": 1,
+    "guest": "コールセンター課 金田真紀さん",
+    "standfm_url": "https://stand.fm/episodes/690192881cb7176d01e884f0",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-001/%E3%83%9B%E3%83%BC%E3%83%A0"
+  },
+  {
+    "id": "002",
+    "number": 2,
+    "guest": "山口防府4課 防府店 堺亮太さん",
+    "standfm_url": "https://stand.fm/episodes/690840f52297fde0ea4edebc",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "003",
+    "number": 3,
+    "guest": "萩店 河村菜々子さん",
+    "standfm_url": "https://stand.fm/episodes/69141190a72deec9e06dcf2d",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "004",
+    "number": 4,
+    "guest": "GWP課 防府店 伊藤愛華さん",
+    "standfm_url": "https://stand.fm/episodes/690838c845af17b90f816978",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "005",
+    "number": 5,
+    "guest": "SA課 長門店 杉原隆司さん",
+    "standfm_url": "https://stand.fm/episodes/691ab52f9368ea2beb4b61f5",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "006",
+    "number": 6,
+    "guest": "防府店 営業2課 中村悟志課長",
+    "standfm_url": "https://stand.fm/episodes/69083d2145af17b90f8169bb",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "007",
+    "number": 7,
+    "guest": "顧問 金森匠さん",
+    "standfm_url": "https://stand.fm/episodes/692ff1f5ac278fb77ab14c7c",
+    "mc": "八木、樫根、野田",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "008",
+    "number": 8,
+    "guest": "萩長門3課 長門店 松野博志さん",
+    "standfm_url": "https://stand.fm/episodes/69410e89e9022a99af1df175",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "009",
+    "number": 9,
+    "guest": "総務課 本社 小野扶美子さん",
+    "standfm_url": "https://stand.fm/episodes/694a533af11d9dea422c24c9",
+    "mc": "八木、野田、富安",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "010",
+    "number": 10,
+    "guest": "HC課 野田遥さん/大橋茉莉奈さん",
+    "standfm_url": "https://stand.fm/episodes/694e18599b4c6278e259d751",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "011",
+    "number": 11,
+    "guest": "萩店 松尾和寛さん",
+    "standfm_url": "https://stand.fm/episodes/696080c11323c8268d556ca2",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "012",
+    "number": 12,
+    "guest": "長門店 藤岡佐和子さん",
+    "standfm_url": "https://stand.fm/episodes/69673f797626ed9735d807cb",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-012/%E3%83%9B%E3%83%BC%E3%83%A0"
+  },
+  {
+    "id": "013",
+    "number": 13,
+    "guest": "コールセンター課 斉藤虹七さん",
+    "standfm_url": "https://stand.fm/episodes/6971bcd900d8136c12037462",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-013/"
+  },
+  {
+    "id": "014",
+    "number": 14,
+    "guest": "防府店 松崎八起さん",
+    "standfm_url": "https://stand.fm/episodes/697836478598ac73f263c2ce",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-014/"
+  },
+  {
+    "id": "015",
+    "number": 15,
+    "guest": "特別篇：MC八木、野田遥さん",
+    "standfm_url": "https://stand.fm/episodes/6982fc9491f9e6cda7c74c50",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": null
+  },
+  {
+    "id": "016",
+    "number": 16,
+    "guest": "本社 峯崎雅之さん",
+    "standfm_url": "https://stand.fm/episodes/698c1e6b84dd32a3547edb13",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-016/%E3%83%9B%E3%83%BC%E3%83%A0"
+  },
+  {
+    "id": "017",
+    "number": 17,
+    "guest": "防府店 末岡智仁さん",
+    "standfm_url": "https://stand.fm/episodes/699c0ef9fbbecb640646270f",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-017/%E3%83%9B%E3%83%BC%E3%83%A0"
+  },
+  {
+    "id": "018",
+    "number": 18,
+    "guest": "萩店 新井勝彦さん",
+    "standfm_url": "https://stand.fm/episodes/699fca5c6c1b5ab411b2e10b",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-018/%E3%83%9B%E3%83%BC%E3%83%A0"
+  },
+  {
+    "id": "019",
+    "number": 19,
+    "guest": "経営企画部 大畑俊輔さん",
+    "standfm_url": "https://stand.fm/episodes/69b27f7f507312ea8122e46f",
+    "mc": "八木",
+    "theme": "",
+    "keyword_url": "https://sites.google.com/coop-s.co.jp/ikikataradio-019/%E3%83%9B%E3%83%BC%E3%83%A0"
+  },
+  {
     "id": "020",
     "number": 20,
     "guest": "山口店 村田優子さん",
-    "date": "2026-04-13",
     "standfm_url": "https://stand.fm/episodes/69d6fe64d99aa03293d4c80e",
-    "theme": "犬・K-POP・家族の話"
+    "mc": "八木",
+    "theme": "犬・K-POP・家族の話",
+    "keyword_url": "episodes/020/"
   }
 ]
