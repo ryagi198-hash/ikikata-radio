@@ -178,5 +178,14 @@
     "mc": "八木",
     "theme": "犬・K-POP・家族の話",
     "keyword_url": "episodes/020/"
+  },
+  {
+    "id": "021",
+    "number": 21,
+    "guest": "萩店 26卒新入社員5名（原口建人さん・岡田遥南さん・渡邊勇弥さん・河村幸之助さん・山根彩乃さん）",
+    "standfm_url": "https://stand.fm/episodes/69fc1d22c27fb87220bac762",
+    "mc": "八木",
+    "theme": "太鼓谷稲荷神社・着物・入社式・研修1ヶ月",
+    "keyword_url": "episodes/021/"
   }
 ]
